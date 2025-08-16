@@ -8,9 +8,6 @@ I am Abasiono Mbat, a growing Web and Software Developer whose long-term goal
 🌱 I've also been learning Rust for building performance-critical and memory-safe
   applications, and Python for Data Science, Machine Learning and AI.
 
-🔭 I'm currently working on an AI-Powered Resume Analyser which would help job
-  applicants and students greatly improve the quality of their CVs.
-
 👯 I'm looking to collaborate on various projects connected to full-stack web
   development and AI engineering/integration to further hone my skills and improve my
   hands-on experience.
